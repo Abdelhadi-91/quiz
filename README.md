@@ -1,14 +1,6 @@
-# ♿ Accessibility Quiz
+#  Accessibility Quiz
 
-An educational and responsive HTML/CSS quiz built to practice **semantic HTML**, **form accessibility**, and **basic CSS layout techniques**. This project is based on the [freeCodeCamp Accessibility Practice Project](https://www.freecodecamp.org/) and was customized for learning purposes.
-
----
-
-## 📸 Preview
-
-![Accessibility Quiz Screenshot](./preview.png) <!-- Optional: Add a screenshot if available -->
-
----
+An educational and responsive HTML/CSS quiz built to practice **semantic HTML**, **form accessibility**, and **basic CSS layout techniques**.
 
 ## 🧠 Features
 
@@ -41,25 +33,7 @@ Alternatively, use [Live Server](https://marketplace.visualstudio.com/items?item
 
 ---
 
-## 🛠️ How to Use
-
-### 1. Clone or Download
-```bash
-git clone https://github.com/yourusername/accessibility-quiz.git
-cd accessibility-quiz
-```
-
-Or download the ZIP and extract it.
-
-### 2. Open in Browser
-Just double-click on `index.html` to open it in your default browser.
-
-### 3. Edit Locally
-Open the folder in any code editor (VS Code, Atom, etc.) to customize the content or styles.
-
----
-
-## ♿ Accessibility Details
+##  Accessibility Details
 
 This project emphasizes accessible form practices:
 - `aria-labelledby` and `role="region"` for assistive tech
@@ -88,15 +62,6 @@ This project is responsive:
 
 ---
 
-## 📘 Learn More
-
-This project aligns with topics from:
-- [HTML: A11Y best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
-- [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
-
----
-
 ## 📬 Feedback & Contribution
 
 Feel free to fork this repo, improve the quiz, or add more questions!
@@ -105,14 +70,6 @@ If you encounter any issues or want to share feedback, open an issue or contact 
 
 ---
 
-## 🧑‍💻 Author
-
-**Your Name**  
-[GitHub Profile](https://github.com/yourusername)  
-[LinkedIn](https://www.linkedin.com/in/yourprofile/) *(Optional)*
-
----
-
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available.
